@@ -1,5 +1,7 @@
 Predicting Bank Term Deposit Subscriptions Using Machine Learning in R
-This project leverages statistical learning techniques in R to predict whether a client will subscribe to a term deposit based on data from a Portuguese bank's telemarketing campaigns.
+
+
+This project leverages statistical learning techniques in R to predict whether a client will subscribe to a term deposit based on data from a American bank's telemarketing campaigns.
 
 Project Overview
 Term deposits are a significant source of income for banks. This project aims to optimize telemarketing campaigns by identifying customers most likely to subscribe to a term deposit, reducing costs and improving efficiency. The analysis includes data wrangling, exploratory data analysis, and predictive modeling using techniques like Random Forests.
