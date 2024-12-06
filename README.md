@@ -11,6 +11,7 @@ Data Preprocessing: Cleaning and preparing the dataset for analysis.
 Exploratory Data Analysis: Visualizing and understanding the data trends.
 Predictive Modeling: Building and evaluating a Random Forest model to predict customer subscription.
 Performance Metrics: Evaluating the model using metrics such as Cohen's kappa and accuracy.
+
 Tools & Technologies
 Programming Language: R
 Libraries: Tidyverse, RandomForest, ggplot2
@@ -20,5 +21,6 @@ Clone the repository.
 Open the Jupyter Notebook or R Markdown file.
 Install the required R libraries mentioned in the notebook.
 Run the cells sequentially to execute the analysis.
+
 Results
 The Random Forest model identified 84% of the subscribers in the test dataset, demonstrating high predictive accuracy. The insights can guide targeted telemarketing efforts.
