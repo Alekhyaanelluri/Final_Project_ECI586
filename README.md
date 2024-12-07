@@ -22,7 +22,7 @@ Programming Language: R
 
 Libraries: Tidyverse, RandomForest, ggplot2
 
-Data Source: Portuguese bank's marketing campaign data
+Data Source: American bank's marketing campaign data
 
 How to Run
 
